@@ -1,0 +1,4 @@
+﻿  pch.cpp
+  lowestcommonancestor.cpp
+c:\users\smash\desktop\college code\lowest-common-ancestor.cpp\lowestcommonancestor\lowestcommonancestor.cpp(52): warning C4018: '<': signed/unsigned mismatch
+  lowestcommonancestor.vcxproj -> C:\Users\smash\Desktop\College Code\Lowest-Common-Ancestor.cpp\Debug\lowestcommonancestor.exe

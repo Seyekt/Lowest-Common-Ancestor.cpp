@@ -1,0 +1,5 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\15.0\Bin\Microsoft.Common.CurrentVersion.targets(1879,5): warning : The referenced project '..\ConsoleApplication1\ConsoleApplication1.vcxproj' does not exist.
+  stdafx.cpp
+  LCATest.cpp
+     Creating library C:\Users\smash\Desktop\College Code\Lowest-Common-Ancestor.cpp\x64\Debug\LCATest.lib and object C:\Users\smash\Desktop\College Code\Lowest-Common-Ancestor.cpp\x64\Debug\LCATest.exp
+  LCATest.vcxproj -> C:\Users\smash\Desktop\College Code\Lowest-Common-Ancestor.cpp\x64\Debug\LCATest.dll
